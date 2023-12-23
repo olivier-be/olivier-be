@@ -1,7 +1,7 @@
 # <h1 align="center"> Hey 👋🏽, I'm Olivier Bensemhoun </h1>
 
 ## about
-I am a first-year student at Epita, and I enjoy discovering new technologies and developing small programs.
+I am a second-year student at Epita, and I enjoy discovering new technologies and developing small programs.
 
 
 
